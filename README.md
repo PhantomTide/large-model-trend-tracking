@@ -1,5 +1,6 @@
 # large-model-trend-tracking
 
+*2023-03-27 Monday*
 large-model-trend-tracking 大模型趋势追踪
 
 ## 文档介绍
